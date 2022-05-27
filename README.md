@@ -1,5 +1,4 @@
-# LinkedIn Profile API
-Fetching profile data via Proxycurl's Linkedin Profile API Endpoint
+# Fetching profile data via Proxycurl's Linkedin Profile API Endpoint
 
 LinkedIn is a powerful professional social network, and a treasure trove of data for professionals and job listings. 
 Linkedin is aware of its data value and turned off public access to their API since 2015. 
@@ -13,7 +12,7 @@ https://nubela.co/proxycurl/
 
 Step 2: Check your email and get a Proxycurl API key.
 
-Step 3: Choose a profile ID to fetch data. It is at the end of a LinkedIn URL:
+Step 3: Choose a profile ID to fetch data. It is at the end of a LinkedIn URL.
 https://www.linkedin.com/in/profile_id
 
 Step 4: Paste the Proxycurl API key and profile ID to the Python file and run it.
