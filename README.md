@@ -7,6 +7,8 @@ To gain access to the official Linkedin API, you will need to be a Linkedin Part
 The chances are that most companies that apply will not be approved as a Linkedin Partner. 
 Thankfully, you can achieve the same effects of the official Linkedin API with Proxycurl's Linkedin API.
 
+Let's try to get profile data of a Linkedin user in 4 steps.
+
 Step 1: Sign up to Proxycurl and get yourself a trial API key so you can get started immediately.
 https://nubela.co/proxycurl/
 
