@@ -15,6 +15,9 @@ Step 2: Check your email and get a Proxycurl API key.
 Step 3: Choose a profile ID to fetch data. It is at the end of a Linkedin URL.
 https://www.linkedin.com/in/profile_id
 
-Step 4: Paste the Proxycurl API key and profile ID to the Python file FetchingProfile.py and run it.
+Step 4: Paste the Proxycurl API key and profile ID to the Python file PersonProfile.py and run it.
 
 You will get the profile data as a JSON file. I have given an example of my JSON file thucdao.json.
+
+The Proxycurl's Linkedin API is not only about people. You can explore more about companies, contacts, jobs, schools, etc. at:
+https://nubela.co/proxycurl/docs
