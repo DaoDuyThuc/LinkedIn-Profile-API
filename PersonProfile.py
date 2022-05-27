@@ -2,7 +2,7 @@ import requests
 import json
 
 PROXYCURL_API_KEY = 'paste your API key here' 
-
+PROFILE_ID = 'paste a profile ID here'
 filename = 'profile.json'
 
 def get_profile(profile_id):
@@ -16,7 +16,7 @@ def get_profile(profile_id):
                             headers=header_dic)
     return response.json()
 
-result = get_profile('paste a profile ID here')
+result = get_profile(PROFILE_ID)
 
 # save to a new json file
 with open(filename, 'a') as f_obj: # append
