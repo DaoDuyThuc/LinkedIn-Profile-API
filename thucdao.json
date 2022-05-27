@@ -1,0 +1,624 @@
+{
+  "public_identifier": "thucdao",
+  "profile_pic_url": "https://media-exp1.licdn.com/dms/image/C5603AQGJsCcG-ubERA/profile-displayphoto-shrink_400_400/0/1612401284962?e=1658966400&v=beta&t=9ZBg5jEpDZ_QuPblFZlr1n-v893W_CjuLUA3OZJroWM",
+  "background_cover_image_url": null,
+  "first_name": "Thuc Dao",
+  "last_name": "(Thomas Dao)",
+  "full_name": "Thuc Dao (Thomas Dao)",
+  "occupation": "Peer Tutor at Cambrian College",
+  "headline": "Business Analyst | Data Analyst | Python Developer | R | SQL | ArcGIS | Power BI | Excel | VBA | HTML | CSS | JavaScript | UML | BPMN-DMN-CMMN",
+  "summary": "Thuc calls it the universal rule: \ud835\uddd6\ud835\uddfc\ud835\uddfb\ud835\uddf3\ud835\uddf9\ud835\ude02\ud835\uddf2\ud835\uddfb\ud835\uddf0\ud835\uddf2 + \ud835\udddc\ud835\uddfb\ud835\uddf3\ud835\uddf9\ud835\ude02\ud835\uddf2\ud835\uddfb\ud835\uddf0\ud835\uddf2 = \ud835\uddd4\ud835\uddf3\ud835\uddf3\ud835\uddf9\ud835\ude02\ud835\uddf2\ud835\uddfb\ud835\uddf0\ud835\uddf2\n\n\ud83c\udfaf 8+ Years of experience as a Business Analyst, Data Analyst, and Business Intelligence Specialist. \n\ud83c\udfaf Experience in various industries: Consumer Finance, Manufacturing, Game, and Business Process Outsourcing.\n\ud83c\udfaf Fast and smart working style, everlearning attitude, and unceasing discovery.\n\n\ud835\udde6\ud835\uddf8\ud835\uddf6\ud835\uddf9\ud835\uddf9\ud835\ude00\n\ud83d\ude80 Exploratory Data Analysis, Data Mining, Data Modelling, Data Visualization, Statistics, Machine Learning\n\ud83d\ude80 Requirements Elicitation, Business Process Mapping, Project Management, User Acceptance Testing (UAT)\n\n\ud83d\ude80 Python: Flask, Dash, FastAPI, Pandas, NumPy, Matplotlib, Plotly, Seaborn, Bokeh, Scikit-learn, Tkinter, Requests, Urllib3, Selenium, BeautifulSoup, Pytest, PyInstaller\n\ud83d\ude80 R: dplyr, reshape2, ggplot2, rpivotTable, tidyverse, tidyr, shiny, plotly, Hmisc, Rcpp, TTR, zoo, prob, forecast\n\ud83d\ude80 Database: Oracle PL/SQL Developer, MySQL Workbench, SQLite, Microsoft SQL Server, Microsoft Access\n\n\ud83d\ude80 VBA, HTML5, CSS3, JavaScript\n\ud83d\ude80 Excel, Power BI, Tableau, ArcGIS, Google Data Studio\n\ud83d\ude80 Google Analytics, Twitter Analytics, Facebook Business Suite\n\ud83d\ude80 UML, Camunda BPMN-DMN-CMMN, Microsoft Visio, Microsoft Project",
+  "country": "CA",
+  "country_full_name": "Canada",
+  "city": "Greater Sudbury",
+  "state": "Ontario",
+  "experiences": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2021
+      },
+      "ends_at": null,
+      "company": "Cambrian College",
+      "company_linkedin_profile_url": "https://www.linkedin.com/school/cambrian-college/",
+      "title": "Peer Tutor",
+      "description": null,
+      "location": "Sudbury, Ontario, Canada",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQGmIp_lWLEO1A/company-logo_400_400/0/1625171950912?e=1661990400&v=beta&t=0vha9Xibkvwv6mfphW1_xamGinxus05OuzVbH_eIXVk"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2021
+      },
+      "company": "HARD-LINE",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/hard-line/",
+      "title": "IT Business Analysis Co-op Student",
+      "description": null,
+      "location": "Greater Sudbury, Ontario, Canada",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQHBo8OU9D8ixw/company-logo_400_400/0/1587060317805?e=1661990400&v=beta&t=44ms8mzt1jKcTq2nYZvo96v5xg_tbdrODolFN1xdCt4"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2021
+      },
+      "company": "Power Digital",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/powerdigitalsg/",
+      "title": "Business Analyst",
+      "description": null,
+      "location": "Ho Chi Minh City, Vietnam",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQG_LoAcUuCNWQ/company-logo_400_400/0/1649902999072?e=1661990400&v=beta&t=cQPdcqRef2T76GYyfgKIMj4POyiIR7sCEBLbPzJWT4Q"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 9,
+        "year": 2020
+      },
+      "company": "FE CREDIT",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/fe-credit/",
+      "title": "Credit Reporting Analyst",
+      "description": null,
+      "location": "REE Tower, 9 Doan Van Bo, Ward 12, District 4, Ho Chi Minh City, Vietnam",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQG2IMu-Xffl_A/company-logo_400_400/0/1648976797199?e=1661990400&v=beta&t=tOxN-Aj7ccXpzQZgJ0wxyWkIyXxm3L7XeMzOs-_hrtU"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2016
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2019
+      },
+      "company": "Minh Hien Dat",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/minh-hien-dat/",
+      "title": "Data Administrator and Operations Manager",
+      "description": null,
+      "location": "453/14 Tan Hoa Dong Street, Binh Tan District, Ho Chi Minh City, Vietnam",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQFwgykBD1MCpg/company-logo_400_400/0/1649905176053?e=1661990400&v=beta&t=bGk800PeAkqWd11fiCA_TnwDUvY8omgS495cIheF_LE"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2013
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2016
+      },
+      "company": "Gameloft South-East Asia",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/gameloft/",
+      "title": "Business Intelligence Reporting Specialist",
+      "description": null,
+      "location": "7th Floor, E-Town 2 Building, 364 Cong Hoa, Tan Binh District, HCMC, Vietnam",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQF-d4Puskmo5w/company-logo_400_400/0/1620206186428?e=1661990400&v=beta&t=SHiD2pHfMUvd6zb6opU19LaPeBqIMB7tUxmO8u7FI6I"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2013
+      },
+      "company": "Officience",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/officience/",
+      "title": "Data Analyst",
+      "description": null,
+      "location": "117B Nguyen Dinh Chinh, Phu Nhuan District, Ho Chi Minh City, Vietnam",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQE7LQvpn2NZhA/company-logo_400_400/0/1644477103782?e=1661990400&v=beta&t=ubC_C0rYCRsaAYsO80Fuuf4dnW1EQhv6DQ_IixrPgss"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 4,
+        "year": 2012
+      },
+      "company": "Viettablet",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/viettablet/",
+      "title": "Technical Sales Manager (at a startup company)",
+      "description": null,
+      "location": "12/47 Nguyen Huu Canh, Binh Thanh District, Ho Chi Minh City, Vietnam",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQHwIWTRo3kI5Q/company-logo_400_400/0/1635437953549?e=1661990400&v=beta&t=9Clmo8t3_y1HKMLh5LPJr9EIHnM-3oqxDsRFnbWJPVM"
+    }
+  ],
+  "education": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2022
+      },
+      "field_of_study": "Business Analytics",
+      "degree_name": "Postgraduate Certificate",
+      "school": "Cambrian College",
+      "school_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQGmIp_lWLEO1A/company-logo_400_400/0/1625171950912?e=1661990400&v=beta&t=0vha9Xibkvwv6mfphW1_xamGinxus05OuzVbH_eIXVk"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 6,
+        "year": 2021
+      },
+      "field_of_study": "I.T. Business Analysis",
+      "degree_name": "Postgraduate Certificate",
+      "school": "Cambrian College",
+      "school_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQGmIp_lWLEO1A/company-logo_400_400/0/1625171950912?e=1661990400&v=beta&t=0vha9Xibkvwv6mfphW1_xamGinxus05OuzVbH_eIXVk"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2006
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2011
+      },
+      "field_of_study": "Electrical and Electronics Engineering",
+      "degree_name": "Bachelor of Engineering (B.E.)",
+      "school": "Ho Chi Minh City University of Technology",
+      "school_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEK6ZLIjmNY7w/company-logo_400_400/0/1630288369428?e=1661990400&v=beta&t=x3nHJfOQaz5W12qOof4e7JloMqOSh-SY3_2PC4hpKzM"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 1,
+        "year": 2003
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2006
+      },
+      "field_of_study": null,
+      "degree_name": null,
+      "school": "Le Hong Phong High School For The Gifted, HCMC, Vietnam",
+      "school_linkedin_profile_url": null,
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4D0BAQHf3NIB0jKAiQ/company-logo_400_400/0/1539241482945?e=1661990400&v=beta&t=sje8AVOW_yrp3stBPkwfTjJ5-iVRaN37ZyoQnUbnoSM"
+    }
+  ],
+  "languages": [
+    "English",
+    "Filipino",
+    "Japanese",
+    "Vietnamese"
+  ],
+  "accomplishment_organisations": [],
+  "accomplishment_publications": [],
+  "accomplishment_honors_awards": [
+    {
+      "title": "Sofvie Analytics Scholarship - Winter 2022",
+      "issuer": "Sofvie Inc. and Cambrian College",
+      "issued_on": {
+        "day": 1,
+        "month": 3,
+        "year": 2022
+      },
+      "description": "Your valued company is doing well, but you are afraid that traditional wisdom will become a permanent creed, hence needing a new factor. Whom should you look for? Let me help you with the title: Business Analytics Specialist. This specialist will bring the future to the present and value from the past. Amazing if you remember that \u201cThe only thing that we learn from history is that we learn nothing from history.\u201d, as the philosopher Georg Hegel famously said.\n\nIn a nutshell, a Business Analytics expert balances an in-depth understanding of statistics, IT, and programming with business insights and communication skills. The expert can analyze past business performance with the use of descriptive, exploratory, and explanatory analytics. On the other hand, he or she is able to predict future events and improve decision-making through predictive analytics, prescriptive analytics, and experimental analytics.\n\nHere I would like to give you another view of Business Analytics that is not shown in those job descriptions. Let\u2019s talk about a race. In this event, speed is undoubtedly critical; however, the rate of speed change, or acceleration has a more decisive influence. If you are so tired that no more acceleration is obtained when approaching the finish line, you are prone to lose as opponents speed up in their final stage. Obviously, you will win the race if you finish in the shortest time. To achieve such time, you need to be good at timing with proper acceleration during several periods.\n\nYour business is analogous to a race: power is speed; decision making is timing. In business, your power relies on 3 Ps: people, process, and product. Also note that if your power is constant, or speed is unchanged, you may be defeated in the game. A Business Analytics professional can help you build acceleration, i.e., keep your power increasing. Besides, data-driven decision-making is the ultimate goal to be expected in any Business Analytics Specialist."
+    },
+    {
+      "title": "Cambrian College International Excellence Bursary - Fall 2021",
+      "issuer": "Cambrian College",
+      "issued_on": {
+        "day": 1,
+        "month": 11,
+        "year": 2021
+      },
+      "description": "Academic study is a journey where the starting point and the destination are not as important as the experience throughout. My educational background has been incredibly valuable and rewarding for someone who returned to academics after working for nine years. On this journey, I have embraced the unfamiliar. I have adapted to many new transitions: not being in my homeland, embracing new educational values, learning in a multicultural environment, and coping with the pandemic. There has been an unprecedented shift from the traditional classes to adjusting to hybrid and flexible classes, both close-in-time and far-in-space, navigating independent yet interactive learning. Fortunately, my carefully considered choice of studying at Cambrian College brought me many valuable lessons beyond knowledge. Resilience and determination were some of the many lessons I learned from my first program of I.T. Business Analysis and my current program of Business Analytics. \n\nI have made many discoveries about myself during this process, but I feel there are three crucial self-discoveries: \n\u2022\tNever underestimate the usefulness of any learning\n\u2022\tDon\u2019t overestimate yourself\n\u2022\tSharing and caring to promote productivity and open opportunities\n\nAs I have written in a post on the Facebook group of Vietnamese students at Cambrian College, going to school does not mean paying 100% attention to studying. Learning is a process of knowledge accumulation and a self-discovery journey. You can enrich your student\u2019s life with self-reflection and out-of-textbook lessons, try to multiply findings and experiences with your social circle, and seek opportunities to apply your knowledge to solve a real problem. Now you are confident in life after graduation."
+    },
+    {
+      "title": "Consolation prize of HSBC Young Entrepreneur Awards in Vietnam Grand Final",
+      "issuer": "The Hongkong and Shanghai Banking Corporation",
+      "issued_on": {
+        "day": 1,
+        "month": 5,
+        "year": 2008
+      },
+      "description": "The HSBC Young Entrepreneur Awards is a regional business plan writing competition that invites talented post-secondary students from Hong Kong and other Asian countries to display their creativity and business acumen. I had worked in a project for HSBC for 4 months and gained a lot experiences from HSBC in the planning process, especially the teamwork skill and creativity skill."
+    },
+    {
+      "title": "Certificate of Merit of Australian National Chemistry Quiz",
+      "issuer": "The Royal Australian Chemical Institute",
+      "issued_on": {
+        "day": 1,
+        "month": 8,
+        "year": 2005
+      },
+      "description": "Class: High Distinction"
+    }
+  ],
+  "accomplishment_patents": [],
+  "accomplishment_courses": [],
+  "accomplishment_projects": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2020
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 1,
+        "year": 2021
+      },
+      "title": "Maya Academy of Advanced Cinematics",
+      "description": "\u2022 The client - Maya Academy of Advanced Cinematics (MAAC) is the media & entertainment education brand of Aptech Ltd., which originates in India. They wanted to expand operations in Vietnam with the first good impression from their website.\n\u2022 Components: website of aesthetic appeal and effect, including e-magazine posting, and flawless responsive design\n\u2022 Methodology: Agile",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2019
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2020
+      },
+      "title": "Sora Japanese E-learning Platform",
+      "description": "\u2022 The client - Sora is a Japanese learning platform that provides video-on-demand, 1-on-1 and group class on Japanese aiming at dominating the South East Asia market. They needed to perform all learning activities on their website.\n\u2022 Components: website, learning management system, live streaming system, online testing system\n\u2022 Methodology: Agile",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2013
+      },
+      "title": "Billing System Validation",
+      "description": "Project description:\n- Seek discrepancy in billing process of a key multinational telecommunication corporation\n- Communicate with client sales to help them protect revenue\n- Create weekly report and discuss pending issues with our client \n\nI contributed to adjust the data processing method for better working efficiency.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2013
+      },
+      "title": "Contract Profitability Dashboard",
+      "description": "Project description:\n- Keep track of monthly revenue through mass data extraction and processing\n- Aggregate and analyze relevant data of cost to update important figures and indexes\n- Create monthly profitability report to a key multinational telecommunication corporation\n\nI put the quality control phase into a unified system. I also automated parts of Excel files with VBA programming and modified tools written in VBA for the ease of control and friendly user interface.",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 6,
+        "year": 2012
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2012
+      },
+      "title": "Network Configuration Setting",
+      "description": "Project description:\n- Configure clear and correct parameters of a network based on customer's specification in Excel files\n- Upload Excel files to a database program which is used by local network technician to set up a site\n\nI contributed to write VBA code for the Excel file to run as desired behavior and prevent human error: Options must be selected in strictly specific cascaded order. In addition, data in this file have mutual relationship and follow a validation. ",
+      "url": null
+    }
+  ],
+  "accomplishment_test_scores": [],
+  "volunteer_work": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2021
+      },
+      "ends_at": null,
+      "title": "Secretary & Social Media Manager",
+      "cause": "Education",
+      "company": "Vietnamese Association Sudbury - H\u1ed9i Ng\u01b0\u1eddi Vi\u1ec7t Sudbury",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/vietnamese-association-sudbury/",
+      "description": null,
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C4E0BAQHqWaRzGmoGvQ/company-logo_400_400/0/1635433939699?e=1661990400&v=beta&t=-cglTA8q40lbwyLBPRISewAUfjLq7APA3K3a8NDIZwE"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 5,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 10,
+        "year": 2021
+      },
+      "title": "Digital Literacy Assistant of the Virtual Service Hubs Project",
+      "cause": "Education",
+      "company": "City of Greater Sudbury",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/city-of-greater-sudbury/",
+      "description": "\u2022 Support adults and seniors to improve their digital literacy skills in small group settings as well as through one-on-one sessions\n\u2022 Help individuals learn how to use devices (desktops, laptops, smartphones, tablets, MiFi, etc.) and browse the Internet so they can access virtual services, such as online doctor's appointments, Ontario Telemedicine Network, Ontario Virtual Care Clinic, LifeLabs, Health Sciences North Virtual Emergency Department request\n\u2022 Guide people to create video conferences, social media accounts (Facebook, Twitter, etc.), and emails, learn to stay safe online, and protect their privacy in the digital environment.\n\u2022 Troubleshoot any problems with devices, software, and mobile applications.",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEkW9GzgyXO9A/company-logo_400_400/0/1591634634476?e=1661990400&v=beta&t=PvJskH7yoi-nHRRRnbo-uTWeAONKhYHtejJKuHFNOwU"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 11,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 12,
+        "year": 2011
+      },
+      "title": "Volunteer of \"Step Up\" Project in Phuong Thinh Commune, Cao Lanh District, Dong Thap Province",
+      "cause": "Civil_rights",
+      "company": "Nanyang Girls' High School",
+      "company_linkedin_profile_url": "https://www.linkedin.com/school/nygh/",
+      "description": "This voluntary activity was held by Vietnamese volunteers of ECO Vietnam Group and Singaporean students of Nanyang Girls\u2019 High School.\n\nExperience:\n\u2022 Supporting Singaporean students in communicating with local people and protecting them from potential danger\n\u2022 Sharing knowledge of Vietnamese custom and help them form a good relationship with local people\n\u2022 Experiencing the life in a poor village with daily local work\n\u2022 Assisting in nature conservation with planting trees\n\u2022 Helping workers to build houses for poor people\n\u2022 Repairing a road which is damaged by the previous flood\n\u2022 Teaching English in an elementary school\n\u2022 Singing and dancing in Cultural Night",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQGCysAD6_QoEg/company-logo_400_400/0/1642641158953?e=1661990400&v=beta&t=UaIhM62VDUV5k3DCDzchheoy_MGcQlK535E13B65t-Y"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2011
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2011
+      },
+      "title": "Volunteer of Earth Hour 2011 in Ho Chi Minh City",
+      "cause": "Environment",
+      "company": "Live & Learn International",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/liveandlearninternational/",
+      "description": "This voluntary activity was held with cooperation between environmental clubs in Ho Chi Minh City.\nIn this event, I was the secretary of the Human Resources team and a leader of 1 of 8 volunteer groups.\n\nExperience: \n\u2022 Managing and updating information of all volunteers\n\u2022 Communicating with volunteers through email, phone, or speaking face-to-face\n\u2022 Inspiring objectives among volunteers, delivering tasks, supervising activities and accessing contributions\n\u2022 Solving trouble between organizers and volunteers\n\u2022 Recording internal information and writing minutes of meetings",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQEJTYPUe_UONA/company-logo_400_400/0/1643690378614?e=1661990400&v=beta&t=zrGZatzaNK1zwklLI-ZMpGDU9mftMI50_jN22ztymQk"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 2,
+        "year": 2010
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 3,
+        "year": 2010
+      },
+      "title": "Volunteer of Earth Hour 2010 in Ho Chi Minh City",
+      "cause": "Environment",
+      "company": "WWF-Viet Nam ",
+      "company_linkedin_profile_url": "https://www.linkedin.com/company/wwf-viet-nam/",
+      "description": "This voluntary activity was held by students from various universities with help from WWF Vietnam. \n\nExperience: \n\u2022 Making preparation for Green Tour around 8 universities in Ho Chi Minh City\n\u2022 Delivering and pasting poster of Earth Hour 2010\n\u2022 Propagating the main event and raising acknowledgement of using electricity efficiently on the Internet and through group bicycle riding.",
+      "logo_url": "https://media-exp1.licdn.com/dms/image/C560BAQHoHdxD6oUvBg/company-logo_400_400/0/1601872251955?e=1661990400&v=beta&t=91u9a4yuvzEfdlN1MGTj5WGkomRoLs0DlJAiM1sK2EU"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 10,
+        "year": 2009
+      },
+      "ends_at": {
+        "day": 30,
+        "month": 11,
+        "year": 2009
+      },
+      "title": "Volunteer of 3rd Asian Indoor Games in Ho Chi Minh City",
+      "cause": "Arts_and_culture",
+      "company": "The Ministry of Culture, Sports and Tourism of Vietnam",
+      "company_linkedin_profile_url": null,
+      "description": "This sporting event was held by the Ministry of Culture, Sports and Tourism of Vietnam with the participation of 43 Asian countries.\n\nExperience: \t\nI joined 3rd Asian Indoor Games as a volunteer of Indian 3-on-3 basketball team to support their training, cheer them in their matches, help them overcome the language barrier, guide them to go shopping and form a good relationship with Vietnamese people. The Indian team really appreciated my support as well as my local hand-made presents.",
+      "logo_url": null
+    }
+  ],
+  "certifications": [
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2022
+      },
+      "ends_at": null,
+      "name": "Analyzing Social Media Data in Python",
+      "license_number": "77c5ba011ff159a619912672992b2d34925ccaba",
+      "display_source": "datacamp.com",
+      "authority": "DataCamp",
+      "url": "https://www.datacamp.com/statement-of-accomplishment/course/77c5ba011ff159a619912672992b2d34925ccaba"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 4,
+        "year": 2022
+      },
+      "ends_at": null,
+      "name": "Financial Forecasting in Python",
+      "license_number": "f0838f45bcbe70a334752b0d0c5eb5cc2f0e4988",
+      "display_source": "datacamp.com",
+      "authority": "DataCamp",
+      "url": "https://www.datacamp.com/statement-of-accomplishment/course/f0838f45bcbe70a334752b0d0c5eb5cc2f0e4988"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 3,
+        "year": 2022
+      },
+      "ends_at": null,
+      "name": "Analyzing US Census Data in Python",
+      "license_number": "8a59118152fd2fd34b0c363a449e5b4169c07100",
+      "display_source": "datacamp.com",
+      "authority": "DataCamp",
+      "url": "https://www.datacamp.com/statement-of-accomplishment/course/8a59118152fd2fd34b0c363a449e5b4169c07100"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 12,
+        "year": 2021
+      },
+      "ends_at": null,
+      "name": "Data Manipulation with pandas",
+      "license_number": "010ef69c741ef0d3f80231936e1298bfc18afa6c",
+      "display_source": "datacamp.com",
+      "authority": "DataCamp",
+      "url": "https://www.datacamp.com/statement-of-accomplishment/course/010ef69c741ef0d3f80231936e1298bfc18afa6c"
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 8,
+        "year": 2012
+      },
+      "ends_at": null,
+      "name": "Microsoft Office Specialist: Microsoft Office Excel 2010",
+      "license_number": "9362171",
+      "display_source": null,
+      "authority": "Microsoft",
+      "url": null
+    },
+    {
+      "starts_at": {
+        "day": 1,
+        "month": 9,
+        "year": 2021
+      },
+      "ends_at": {
+        "day": 31,
+        "month": 8,
+        "year": 2022
+      },
+      "name": "Ten Thousand Coffees Member",
+      "license_number": "cambriancollege-7dfc4cc3",
+      "display_source": "storage.googleapis.com",
+      "authority": "Ten Thousand Coffees",
+      "url": "https://storage.googleapis.com/ttc-static-images/linkedin-certificates/2021/cambriancollege-7dfc4cc3.jpg?source=list"
+    }
+  ],
+  "connections": null,
+  "people_also_viewed": [
+    {
+      "link": "https://www.linkedin.com/in/krishnosarkar",
+      "name": "Krishno Sarkar",
+      "summary": "Business Data Analyst | Production Planner | Data Science | Downstream Petroleum Refinery | Oil & Energy",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/daphn\u00e9e-king-0b4194101",
+      "name": "Daphn\u00e9e King",
+      "summary": "Sales Professional at Michael Hill",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/shadae-mckenzie-434ba311b",
+      "name": "Shadae Mckenzie",
+      "summary": "Data Analyst | Business Intelligence Analyst | SQL | Power BI",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jerry-doan-558162118",
+      "name": "Jerry Doan",
+      "summary": "Digital Studio Lead",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/hannah-ho-076b18b1",
+      "name": "Hannah Ho",
+      "summary": "Intermediate Accountant at Rokstad Power",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/kinh-sanh-mach-81a11767",
+      "name": "kinh sanh mach",
+      "summary": "retired engineer at previously city of montreal",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/sabrina-coates-0191b5225",
+      "name": "Sabrina Coates",
+      "summary": "--",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/lmtri",
+      "name": "Tri Le",
+      "summary": "Web Developer",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/jada-lo",
+      "name": "Jada Lo",
+      "summary": "Student at Cambrian College",
+      "location": null
+    },
+    {
+      "link": "https://www.linkedin.com/in/tatum-mcdonald-272956129",
+      "name": "Tatum McDonald",
+      "summary": "Mohawk College Paralegal Student",
+      "location": null
+    }
+  ],
+  "recommendations": [
+    "Aditya Phadke\n\n\n\nI have worked with Thuc between September 2021 and December 2021. Thuc Dao took ANA1001 - Programming for Analytics with me. He was one of the top scorers and best performers in the course. He always handed in his work on time, and went above and beyond to perform exceptionally in each assignment. He showed professionalism in his work as well as how he carried himself. I am confident in his abilities to do well in absolutely anything he chooses to do!",
+    "Brady Vallbacka\n\n\n\nThuc is a high-achiever who demonstrates advanced Microsoft Excel skills. He is also well-versed in Power BI & R. Thuc leads by example by tutoring his fellow students and taking the lead in group projects to achieve high success. For employers looking for an individual that combines strong programming, data visualization and problem-solving skills Thuc demonstrates them with high effectiveness. ",
+    "Jenna Guse\n\n\n\nI have known Thuc since September 2021 as his professor in QMM1001 Statistics for Data Analytics. He was the top student academically in my class. I was consistently impressed by his creative solutions to problems, his ability to clearly communicate findings, and his hard work ethic. Business Analytics is a very demanding program and despite taking courses virtually and working from a different time zone Thuc met all assessment deadlines and submitted work of the highest quality. This demonstrated his time management skills and commitment to his studies.",
+    "An LE\n\n\n\nDao Duy Thuc is a reliable expert for every technical or tool-relating issues in our team, especially for any advanced MS Office and VBA requirements, which is extremely helpful for data analyzing."
+  ],
+  "activities": [],
+  "similarly_named_profiles": [],
+  "articles": [],
+  "groups": []
+}
